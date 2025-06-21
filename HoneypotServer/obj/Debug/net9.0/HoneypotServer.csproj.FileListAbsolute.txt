@@ -1,0 +1,14 @@
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\bin\Debug\net9.0\HoneypotServer.exe
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\bin\Debug\net9.0\HoneypotServer.deps.json
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\bin\Debug\net9.0\HoneypotServer.runtimeconfig.json
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\bin\Debug\net9.0\HoneypotServer.dll
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\bin\Debug\net9.0\HoneypotServer.pdb
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\obj\Debug\net9.0\HoneypotServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\obj\Debug\net9.0\HoneypotServer.AssemblyInfoInputs.cache
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\obj\Debug\net9.0\HoneypotServer.AssemblyInfo.cs
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\obj\Debug\net9.0\HoneypotServer.csproj.CoreCompileInputs.cache
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\obj\Debug\net9.0\HoneypotServer.dll
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\obj\Debug\net9.0\refint\HoneypotServer.dll
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\obj\Debug\net9.0\HoneypotServer.pdb
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\obj\Debug\net9.0\HoneypotServer.genruntimeconfig.cache
+C:\Users\Mayen Fernandez\Documents\HoneypotServer\obj\Debug\net9.0\ref\HoneypotServer.dll

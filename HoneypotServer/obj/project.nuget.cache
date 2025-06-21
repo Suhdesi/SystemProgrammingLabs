@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A1s2rnnuBUQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mayen Fernandez\\Documents\\HoneypotServer\\HoneypotServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayen Fernandez\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
